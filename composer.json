@@ -1,0 +1,19 @@
+{
+    "name": "ivanchenkoandriy/kata",
+    "authors": [
+        {
+            "name": "Andriy Ivanchenko",
+            "email": "ivanchenko.andriy@gmail.com"
+        }
+    ],
+    "autoload": {
+        "files": ["src/TaskFunctions.php"],
+        "classmap": [
+            "src/"
+        ]
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^8.5"
+    }
+}
